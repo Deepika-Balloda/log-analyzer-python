@@ -1,0 +1,8 @@
+INFO Application started
+INFO Loading configuration
+WARNING Disk usage at 85%
+ERROR Failed to connect to database
+INFO Retrying connection
+ERROR Connection timeout
+WARNING Low memory detected
+INFO Application running
